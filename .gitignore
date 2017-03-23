@@ -2,66 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 
-### pandoc
-# HTML
-*.html
-
-
-# WORD
-*.doc
-*.docx
-
-
-# OPEN DOCUMENT
-*.odt
-
-
-# LATEX
-*.tex
-
-## Core latex/pdflatex auxiliary files:
-*.aux
-*.lof
-*.log
-*.lot
-*.fls
-*.out
-*.toc
-
-## Intermediate documents:
-## These rules might exclude image files for figures etc.
-*.dvi
-*.ps
-*.eps
-*.pdf
-
-## Bibliography auxiliary files (bibtex/biblatex/biber):
-*.bbl
-*.bcf
-*.blg
-*-blx.aux
-*-blx.bib
-*.run.xml
-
-## Build tool auxiliary files:
-*.fdb_latexmk
-
-## hyperref
-  *.brf
-
-
-# BEAMER
-  *.nav
-  *.snm
-  *.vrb
-
-# ex:ft=config
-
-### pandoc
-# HTML
-*.html
-
-
 # WORD
 *.doc
 *.docx
